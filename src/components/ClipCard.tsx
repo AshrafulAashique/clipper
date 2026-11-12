@@ -395,3 +395,4 @@ export const ClipCard: React.FC<ClipCardProps> = ({
     </div>
   );
 };
+

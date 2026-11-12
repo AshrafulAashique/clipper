@@ -51,3 +51,4 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSettings }) => {
     </header>
   );
 };
+

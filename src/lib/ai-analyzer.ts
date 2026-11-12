@@ -301,3 +301,4 @@ Respond with ONLY valid JSON strictly matching this schema:
     return heuristicMomentDetector(segments, 0);
   }
 }
+

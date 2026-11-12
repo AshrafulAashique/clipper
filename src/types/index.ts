@@ -48,3 +48,4 @@ export interface DetectionReport {
 }
 
 export type SubtitleStyle = 'hormozi' | 'neon' | 'crisp';
+
